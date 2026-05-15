@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Rotimi Olayinka 👋
 
-<!--
-**rotimi-tech/rotimi-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student at Sam Houston State University pursuing a B.S. in Cybersecurity. I’m interested in network security, IT support, GRC, and building hands-on technical projects.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Java
+- Python
+- C++
+- Network Security
+- Network Troubleshooting
+- Cybersecurity Fundamentals
+- Microsoft Office & Google Workspace
+- Adobe Creative Suite
+- Video Editing & Content Creation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Leadership
+Public Relations Chair — NSBE @ Sam Houston State University
+
+## Current Focus
+- Building cybersecurity projects
+- Learning Linux & system hardening
+- Practicing packet analysis using Wireshark
+- Growing technical skills through hands-on learning
+
+## Connect With Me
+LinkedIn: linkedin.com/in/rotimi-olayinka-6907bb335  
+Email: rotimiolayinka1999@gmail.com
