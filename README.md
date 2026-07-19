@@ -2,7 +2,7 @@
 
 Cybersecurity student at Sam Houston State University pursuing a B.S. in Cybersecurity. I’m interested in network security, IT support, GRC, and building hands-on technical projects.
 
-GRC Security Gap Assessment
+🔒GRC Security Gap Assessment
 
 Repository: https://github.com/rotimi-tech/GRC-Security-Gap-Assessment
 
@@ -15,7 +15,8 @@ Identified and prioritized ten cybersecurity risks
 Developed a professional Risk Register and Risk Matrix
 Produced an executive remediation roadmap
 Strengthened skills in governance, risk assessment, compliance, and security documentation
-Wireshark Network Analysis
+
+🌐Wireshark Network Analysis
 
 Repository: https://github.com/rotimi-tech/wireshark-network-analysis
 
@@ -27,7 +28,8 @@ Investigated packet-level communications
 Applied protocol filters
 Examined encrypted web traffic
 Documented findings with screenshots
-Graph Traversal Visualizer
+
+💻Graph Traversal Visualizer
 
 Repository: https://github.com/rotimi-tech/graph-traversal-visualizer
 
